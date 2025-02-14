@@ -3,4 +3,4 @@ Project link: https://www.theodinproject.com/lessons/foundations-rock-paper-scis
 
 The purpose of this project is to practice JavaScript skills.
 
-This Rock Paper Scissors game is played entirely via the console.
+This Rock Paper Scissors game was designed for playing entirely via the console, then modified to play with very simple button UI.
